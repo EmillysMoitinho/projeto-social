@@ -8,10 +8,11 @@ Este projeto foi desenvolvido para treinar os conhecimentos adquiridos de iframe
 
 Link: https://emillysmoitinho.github.io/projeto-social/
 
-### Funcionalidades
+## Funcionalidades
 * A tela inicial do celular exibe os aplicativos e a interface como se fosse um iPhone.
 * Ao clicar no ícone do GitHub, a tela do celular muda para mostrar o perfil do GitHub.
 * Ao clicar no ícone do LinkedIn, a tela do celular muda para mostrar o perfil do LinkedIn.
+* No final das páginas do GitHub e LinkedIn, há um botão escrito "Acesse" que leva até as páginas verdadeiras do GitHub e LinkedIn.
 
 ## Captura de Telas
 
